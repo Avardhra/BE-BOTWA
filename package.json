@@ -1,0 +1,17 @@
+{
+  "name": "gupta-api-tts",
+  "version": "1.0.0",
+  "main": "api-canvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "express": "^5.2.1"
+  }
+}
