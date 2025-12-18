@@ -1,12 +1,11 @@
 {
-  "name": "be-botwa",
+  "name": "gupta-api-tts",
   "version": "1.0.0",
   "main": "api-canvas.js",
   "scripts": {
     "start": "node api-canvas.js"
   },
   "dependencies": {
-    "canvas": "^2.11.2",
     "express": "^4.19.2"
   }
 }
